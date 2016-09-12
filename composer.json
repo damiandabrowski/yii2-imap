@@ -1,13 +1,18 @@
 {
-    "name": "roopz/yii2-imap",
+    "name": "damiandabrowski/yii2-imap",
     "minimum-stability": "dev",
     "prefer-stable": "true",
     "description": "yii2 extension to read and process mails from IMAP and PHP",
     "keywords": ["yii2", "extension", "widget", "imap", "cron", "mail", "inbox"],
-    "homepage": "https://github.com/yiioverflow/yii2-imap.git",
+    "homepage": "https://github.com/damiandabrowski/yii2-imap.git",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
+        {
+            "name": "Damian Dąbrowski",
+            "email": "dabrowski1983@gmail.com",
+            "homepage": "https://github.com/damiandabrowski"
+        },
         {
             "name": "Roopan Valiya Veetil",
             "email": "yiioverflow@gmail.com",
@@ -19,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "roopz\\imap\\": "src/"
+            "damiandabrowski\\imap\\": "src/"
         }
     }
 }
