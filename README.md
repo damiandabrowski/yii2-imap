@@ -11,13 +11,13 @@ Installation by composer
 ```composer
 {
     "require": {
-       "roopz/yii2-imap": "dev-master"
+       "damiandabrowski/yii2-imap": "dev-master"
     }
 }
 
 Or
 
-$ composer require roopz/yii2-imap "dev-master"
+$ composer require damiandabrowski/yii2-imap "dev-master"
 ```
 
 # Documentation
