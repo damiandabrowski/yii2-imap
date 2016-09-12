@@ -1,9 +1,9 @@
 <?php
 
-namespace roopz\imap;
+namespace damiandabrowski\imap;
 
 use Yii;
-use roopz\imap\Mailbox;
+use damiandabrowski\imap\Mailbox;
 
 /* 
  * 
@@ -24,7 +24,7 @@ use roopz\imap\Mailbox;
  * 'components' => [
  *     ...
  *     'imap' => [
- *         'class' => 'vendor\roopz\yii2-imap\Imap',
+ *         'class' => 'vendor\damiandabrowski\yii2-imap\Imap',
  *         'connection' => [
  *             'imapPath' => '{imap.gmail.com:993/imap/ssl}INBOX',
  *             'imapLogin' => 'username',

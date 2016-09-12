@@ -1,6 +1,6 @@
 <?php
 
-namespace roopz\imap;
+namespace damiandabrowski\imap;
 
 /**
    *Copyright (c) 2012 by Barbushin Sergey <barbushin@gmail.com>.
