@@ -21,6 +21,8 @@ class IncomingMail {
 	public $cc = array();
 	public $replyTo = array();
 
+    public $headers;
+
 	public $textPlain;
 	public $textHtml;
 	/** @var IncomingMailAttachment[] */
